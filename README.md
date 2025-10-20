@@ -4,9 +4,9 @@
 
 ## Indice
 
-[Clash Royale](#clash-royale)
-[Clash of Clans](#clash-of-clans)
-[Braws Stars](#braws-stars)
+[[Clash Royale]](#clash-royale)
+[[Clash of Clans]](#clash-of-clans)
+[[Braws Stars]](#braws-stars)
 
 
 ## CLASH ROYALE
@@ -48,6 +48,9 @@
 ![](https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2VAnsBUzTCBPSSFjNj8xjY/11d09747401e9827e15cd342112518d3/royalghostevolution.png?fm=webp&w=1681)
 
     +La evolución del fantasma real invoca dos soldados fantasmales que infligen daño al aparecer y protegen el espíritu de su líder cuando se materializa.
+  
+  [[Volver a indice]](#indice)
+  
 ## CLASH OF CLANS
 
 ![](https://supercell.com/_next/static/media/hero_blogs_clashofclans.460750b4.webp)
@@ -68,6 +71,7 @@
     
 ![](https://www.clashchamps.com/wp-content/uploads/2020/12/LogLauncher_Profile_Icon.png)
 
+[[Volver a indice]](#indice)
 ## Braws Stars
 
 ![LogoBrawl](logo-25.c614ec09.png)
@@ -127,4 +131,5 @@ En palabras de **Lina Torres**, *diseñadora de mapas* en Brawl Stars:
 El nuevo mapa ya está disponible en el juego y los jugadores pueden disfrutar de recompensas exclusivas por completar partidas en él durante las primeras semanas.
 ![Volcanic](Volcanic.png)
 
+[[Volver a indice]](#indice)
 
