@@ -2,29 +2,19 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://play-lh.googleusercontent.com/7Tj96xYqHgR1IgJQd7SC7deyuoIwtfq-ZBODHLRxqn7-lEnJsktkx0qE6A3HhtLb5Zs=s188-rw)
 
 
+[Clash Royale](#clash-royale)
+[Clash of Clans](#clash-of-clans)
+[Clash Royale](#braws-stars)
+
 
 ## CLASH ROYALE
 ![](https://supercell.com/images/c96611b5b4ccd331e2b4dcb797811894/1681/hero_bg_clashroyale.612fcf42.webp)
 ### Actualizaciones (octubre)
 ![](https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7BuSYvhmtORE550hIvuIdz/60e28548ce3fc8ae21ec415c1898e63f/SUP4119_Season_76_Website_Hero_Image-3000x600.jpg)
 
-La forma más común es usar una lista simple de enlaces separada por algún divisor (como un carácter especial o un simple salto de línea):
 
-//Inicio | Acerca de Nosotros | Servicios | Contacto
 
-1. Inicio
-<a name="inicio"></a>
-Bienvenido a la página principal. Aquí encontrarás una introducción al tema.
-2. Acerca de Nosotros
-<a name="acerca"></a>
-Aquí está la información sobre la empresa o proyecto.
-3. Servicios
-<a name="servicios"></a>
-Detalle de los servicios que ofrecemos.
-4. Contacto
-<a name="contacto"></a>
-
-Aquí se encuentran nuestros datos de contacto.//
+   
 
 * NUEVA TEMPORADA: ROCK & RULE
     1. *_COFRES DE LA SUERTE:_*
@@ -45,13 +35,17 @@ Aquí se encuentran nuestros datos de contacto.//
     ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4DqSZ0O78gtHVfxMhkFOjok8GzodJPxCo3NzGwWtT_DFsoz0cvI3JaRlkTEzUNCAzOeeHu4BJSTUUVMo2JzJ2s2sfnSZzmNVeg-ZolDSrOAQB1S3HjjO4acG3j-58eTHg5ZToZA?key=HA_LqMossuq_Uy9CZ5rFVV9B)
 
     3.  *_NUEVAS EVOLUCIONES_*:
-    +Ejército de esqueletos:
-![](https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3pamnBrk8Y3RyFNCt7t3Ud/13877f076b7c9a4f2c0abf9fa320919f/skeletonarmyevolution.png?fm=webp&w=1681)
+
+    **Ejército de esqueletos:** 
+    
+    ![](https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3pamnBrk8Y3RyFNCt7t3Ud/13877f076b7c9a4f2c0abf9fa320919f/skeletonarmyevolution.png?fm=webp&w=1681)
+
      -El general Ataúlfo lidera la evolución del ejército de esqueletos y, mientras siga con vida, volverá invisible e invulnerable a su pelotón. Sin embargo, cuando lo derroten, su leal ejército perecerá con él.
 
      +Fantasma real :
 ![](https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2VAnsBUzTCBPSSFjNj8xjY/11d09747401e9827e15cd342112518d3/royalghostevolution.png?fm=webp&w=1681)
-        +La evolución del fantasma real invoca dos soldados fantasmales que infligen daño al aparecer y protegen el espíritu de su líder cuando se materializa.
+
+    +La evolución del fantasma real invoca dos soldados fantasmales que infligen daño al aparecer y protegen el espíritu de su líder cuando se materializa.
 ## CLASH OF CLANS
 
 ![](https://supercell.com/_next/static/media/hero_blogs_clashofclans.460750b4.webp)
@@ -62,12 +56,14 @@ Aquí se encuentran nuestros datos de contacto.//
     -Ataca tanto a las unidades aéreas como a las terrestres.
     -Tiene dos modos de defensa devastadores: largo alcance y ataque rápido.
     -¡Solo pone el punto de mira en una unidad, pero inflige muchísimo daño!
+
 ![](https://theriagames.com/wp-content/uploads/2025/02/clash-of-clans-Multi-Gear_Tower2_LongRange.webp),![](Https://theriagames.com/wp-content/uploads/2025/02/clash-of-clans-Multi-Gear_Tower2_FastAttack.webp),![](https://theriagames.com/wp-content/uploads/2025/02/clash-of-clans-air-defense-icon.webp)
     
   +**Una máquina de asedio nueva llega a la aldea:**
     -La lanzatropas es inmóvil, pero lo compensa con una fuerza de lanzamiento inmensa.
     -Cada barril puede albergar varias tropas convencionales y una tropa del castillo del clan.
     -La cantidad de barriles de la lanzatropas varía en función de su nivel, ¡así que úsalos bien!
+    
 ![](https://www.clashchamps.com/wp-content/uploads/2020/12/LogLauncher_Profile_Icon.png)
 
 ## Braws Stars
