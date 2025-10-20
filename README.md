@@ -4,7 +4,7 @@
 
 [Clash Royale](#clash-royale)
 [Clash of Clans](#clash-of-clans)
-[Clash Royale](#braws-stars)
+[Braws Stars](#braws-stars)
 
 
 ## CLASH ROYALE
@@ -124,3 +124,4 @@ En palabras de **Lina Torres**, *diseñadora de mapas* en Brawl Stars:
 
 El nuevo mapa ya está disponible en el juego y los jugadores pueden disfrutar de recompensas exclusivas por completar partidas en él durante las primeras semanas.
 ![Volcanic](Volcanic.png)
+
