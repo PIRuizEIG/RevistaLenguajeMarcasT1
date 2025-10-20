@@ -2,6 +2,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://play-lh.googleusercontent.com/7Tj96xYqHgR1IgJQd7SC7deyuoIwtfq-ZBODHLRxqn7-lEnJsktkx0qE6A3HhtLb5Zs=s188-rw)
 
 
+## Indice
+
 [Clash Royale](#clash-royale)
 [Clash of Clans](#clash-of-clans)
 [Braws Stars](#braws-stars)
@@ -124,4 +126,5 @@ En palabras de **Lina Torres**, *diseñadora de mapas* en Brawl Stars:
 
 El nuevo mapa ya está disponible en el juego y los jugadores pueden disfrutar de recompensas exclusivas por completar partidas en él durante las primeras semanas.
 ![Volcanic](Volcanic.png)
+
 
