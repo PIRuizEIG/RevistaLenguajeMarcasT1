@@ -88,6 +88,7 @@ Voltix estará disponible como parte de una nueva actualización temática llama
 Brawl Stars ha sorprendido nuevamente a sus fans anunciando oficialmente su primera colaboración musical con el cantante virtual NeonWave. El evento consistirá en un miniconcierto en el menú principal del juego, protagonizado por Surge DJ, que estrenará un nuevo aspecto exclusivo con temática de música electrónica.
 
 Durante el evento, los jugadores podrán completar misiones musicales y conseguir recompensas como pines animados, sprays luminosos y monedas. También se espera que se añada música nueva a algunas pantallas del juego.
+
 ![concierto](Concert.jpg)
 
 ### Nuevas skins "Ciberpunk" revolucionan el pase de batalla :robot:
@@ -111,6 +112,7 @@ Además, los jugadores podrán:
 Supercell ha comenzado a probar en servidores privados una nueva función social para Brawl Stars: clanes 2.0. Esta actualización introduce un chat de voz interno para partidas amistosas, logros de club por temporadas y opciones de personalización mejoradas para los presidentes.
 
 También habrá guerras de clanes renovadas con recompensas únicas como gemas, monedas de club y reacciones exclusivas. Todavía no hay fecha oficial de lanzamiento, pero la comunidad espera verlo pronto en una beta pública.
+
 ![Chat de voz](chat_de_voz_brawl_stars_china.jpg)
 
 ### Se filtra posible rework de Dynamike :bomb:
@@ -132,4 +134,5 @@ El nuevo mapa ya está disponible en el juego y los jugadores pueden disfrutar d
 ![Volcanic](Volcanic.png)
 
 [[Volver a indice]](#indice)
+
 
